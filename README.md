@@ -17,9 +17,9 @@
 ```typescript
 const yash = {
     location: "India 🇮🇳",
-    role: "Software Engineer",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    focus: ["Full-Stack Development", "Machine Learning", "Cloud Architecture"],
+    role: "Developer"
+    code: ["JavaScript", "TypeScript", "Python", "Java", "MySQL", "Pandas" , "Numpy", "Matplotlib",],
+    focus: ["Full-Stack Development", "Machine Learning", "Cloud Architecture", "Frontend" , "Backend" , "Data Engineer", "IT Technical Roles"],
     architecture: ["Microservices", "Event-Driven", "Serverless"],
     currentlyLearning: "Distributed Systems & LLMs",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
@@ -137,8 +137,8 @@ AI/ML frontiers & practical applications
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmishra5/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashmishra17)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishryash17@gmail.com)
+
 
 </div>
 
