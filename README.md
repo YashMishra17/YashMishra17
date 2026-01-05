@@ -16,7 +16,7 @@
 
 ```typescript
 const yash = {
-    location: "Jabalpur, India 🇮🇳",
+    location: "India 🇮🇳",
     role: "Software Engineer",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
     focus: ["Full-Stack Development", "Machine Learning", "Cloud Architecture"],
